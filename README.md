@@ -32,4 +32,4 @@ If you have a @g.ucla.edu account:
 
 Warning: Launching the binder link will take about 5 minutes.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yohman/workshop-remote-sensing/HEAD?filepath=Remote%20Sensing%20Camp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/workshop-remote-sensing/HEAD?filepath=Remote%20Sensing%20Camp.ipynb)
