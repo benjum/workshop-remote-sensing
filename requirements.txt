@@ -2,5 +2,4 @@ geopandas
 matplotlib
 datetime
 IPython
-ee
-StringIO
+earthengine-api
