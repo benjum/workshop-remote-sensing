@@ -3,3 +3,4 @@ matplotlib
 datetime
 IPython
 ee
+StringIO
